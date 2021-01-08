@@ -25,7 +25,7 @@ public class Main {
             msg("Holder: ", false);
             sc.nextLine();
             String holder = sc.nextLine();
-            msg("Initial Balance; ", false);
+            msg("Initial Balance: ", false);
             Double balance = sc.nextDouble();
             msg("Withdraw Limit: ", false);
             Double withdrawLimit = sc.nextDouble();
